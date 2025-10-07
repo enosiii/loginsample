@@ -1,0 +1,6 @@
+# Ignore environment variables
+.env
+# Ignore the generated config file that contains the password
+config.js
+# Ignore deployment artifacts
+.vercel
