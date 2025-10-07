@@ -4,3 +4,5 @@
 config.js
 # Ignore deployment artifacts
 .vercel
+# Ignore build command instructions
+creating_vercel_build_command.txt
